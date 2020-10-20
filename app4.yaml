@@ -1,0 +1,11 @@
+app4:
+  app_name: app4
+  tenant: tenantB
+  app_template: template_as3_web_app
+  server_port: 8001
+  app_locations:
+    datacenter_name: virtualDataCenter
+    vip_address: 10.40.10.1
+    pool_members:
+      - 20.40.11.1
+      - 20.40.11.2
