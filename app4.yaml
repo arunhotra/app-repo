@@ -5,7 +5,8 @@ app4:
   server_port: 8001
   app_locations:
     datacenter_name: virtualDataCenter
-    vip_address: 10.40.10.1
+    prod_vip_address: 10.40.10.1
+    alternate_vip_address: 10.40.10.2
     pool_members:
       - 20.40.11.1
       - 20.40.11.2
