@@ -3,6 +3,7 @@ app6:
   tenant: tenant33333
   app_template: template_as3_web_app
   server_port: 8001
+  app_fqdn: app6.example1.com
   app_locations:
     datacenter_name: testDataCenter
     prod_vip_address: 10.60.10.1
