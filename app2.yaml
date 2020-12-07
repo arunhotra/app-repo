@@ -1,6 +1,6 @@
 app2:
   app_name: app2
-  tenant: tenantA
+  tenant: tenant11111
   app_template: template_as3_web_app
   server_port: 8001
   app_locations:
