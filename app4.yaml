@@ -6,8 +6,8 @@ app4:
   app_fqdn: app4.example1.com
   app_locations:
     datacenter_name: virtualDataCenter
-    prod_vip_address: 10.40.10.1
-    alternate_vip_address: 10.40.10.2
+    prod_vip_address: 192.168.251.154
+    alternate_vip_address: 192.168.251.204
     pool_members:
-      - 20.40.11.1
-      - 20.40.11.2
+      - 192.168.252.151
+      - 192.168.252.152
