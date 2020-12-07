@@ -9,5 +9,5 @@ app3:
     prod_vip_address: 192.168.251.153
     alternate_vip_address: 192.168.251.203
     pool_members:
-      - 192.168.252.151
-      - 192.168.252.152
+      - 10.1.1.1
+      - 10.2.2.2
