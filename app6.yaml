@@ -6,8 +6,8 @@ app6:
   app_fqdn: app6.example1.com
   app_locations:
     datacenter_name: testDataCenter
-    prod_vip_address: 20.1.1.6
-    alternate_vip_address: 20.1.1.16
+    prod_vip_address: 192.168.251.156
+    alternate_vip_address: 192.168.251.206
     pool_members:
-      - 10.1.1.1
-      - 10.2.2.2
+      - 192.168.252.160
+      - 192.168.252.161
