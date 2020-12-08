@@ -2,7 +2,7 @@ app3:
   app_name: app3
   tenant: tenant22222
   app_template: template_as3_web_app
-  server_port: 8001
+  server_port: 80
   app_fqdn: app3.example1.com
   app_locations:
     datacenter_name: virtualDataCenter
